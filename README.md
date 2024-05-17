@@ -1,7 +1,7 @@
 Welcome
 
 free linux
-make a codespace (you need a repo) 
+make a codespace (you need a repo) you need 4 cores
 then type in terminal wget https://raw.githubusercontent.com/imauser1/freelinux/main/install.sh
 then type chmod +x install.sh
 then type ./install.sh
