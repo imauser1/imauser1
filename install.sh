@@ -1,3 +1,5 @@
+sudo apt update
+sudo apt full-upgrade
 sudo apt install tigervnc-standalone-server novnc lxde firefox
 cd /
 sudo git clone https://github.com/novnc/noVNC
